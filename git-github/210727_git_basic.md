@@ -43,7 +43,7 @@ main 브랜치에서 hello.py 파일을 열어보면
 
 add 하고 commit 하면됨
 
-![image-20210727134938006](C:\Users\wu2ee\AppData\Roaming\Typora\typora-user-images\image-20210727134938006.png)
+![image](https://user-images.githubusercontent.com/52458039/127167224-3bff4dc7-ac76-4c1e-9349-c3a0f1139859.png)
 
 머지 커밋 발생
 
@@ -645,4 +645,3 @@ rpint helloworld one line
 
 
 이게 2명이서 핑퐁하면 쉬워보이는데, 3명이상이 되면 복잡해진다.
-
