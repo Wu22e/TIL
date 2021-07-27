@@ -35,7 +35,7 @@ main 브랜치에서 hello.py 파일을 열어보면
 
 그냥 말그대로 코드를 그렇게 바꿔주고 저장하면  됨
 
-![image-20210727134756046](C:\Users\wu2ee\AppData\Roaming\Typora\typora-user-images\image-20210727134756046.png)
+![image](https://user-images.githubusercontent.com/52458039/127167534-80f5bc88-ebbf-4fdf-a378-ad5c2dd72fc0.png)
 
 컨플릭트 파일이 있으므로 이러한 unmerged paths 라는 메시지가 뜸. merge 했을때 conflict 가발생했기 때문에 아직 merge가 되지 않은 상태이고, 충돌 상황에서 코드를 어떤방법을 적용할지 선택하여 소스코드만 수정된 상황이기 대문에 merge가 됬다고 commit을 날려야 함. (즉 위 상황이 오류 상황이 아님)
 
